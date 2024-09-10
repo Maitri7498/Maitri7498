@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Maitri+Patel!;" />
 </h1>
 
-## About Me
+# About Me
 I am a data enthusiast with a passion for exploring, analyzing, and making sense of complex datasets. My work revolves around using data to tell stories, make predictions, and create innovative solutions. Here’s how I approach the world of data:
 
 #### Data Exploration 
@@ -29,7 +29,7 @@ I am a data enthusiast with a passion for exploring, analyzing, and making sense
 🤝 I partner with diverse teams to align data-driven solutions with strategic goals and drive innovation.
 
 
-## Tools & Technologies
+# Tools & Technologies 🛠️
 
 #### Programming Languages
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="50" height="50" />  <img src="https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png" alt="SQL" width="50" height="50" /> 
@@ -43,4 +43,10 @@ I am a data enthusiast with a passion for exploring, analyzing, and making sense
 #### Databases
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" /> <img src="https://thumbs.dreamstime.com/z/logo-icon-vector-logos-logo-icons-set-social-media-flat-banner-vectors-svg-eps-jpg-jpeg-emblem-wallpaper-background-editorial-208329569.jpg?w=768" width="90" height="90" /> <img src="https://www.pipelinersales.com/wp-content/uploads/2018/09/s-ibm-db2-400x182.png" alt="IBM DB2" width="80" height="50" />
 
-
+# Education 🎓
+#### Post Graduate Diploma in Predictive Analytics : 3.56 GPA
+Conestoga College,Guelph,Ontario
+#### Post Graduate Diploma in Big Data Analytics : 3.43 GPA
+Georgian College,Barrie,Ontario
+#### Bachelors in Engineering,Information Technology : 8.20 CGPA
+Gujarat Technological University,India
